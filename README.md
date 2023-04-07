@@ -1,1 +1,1 @@
-# https://pig-game-ngt.netlify.app/
+# Netlify: https://pig-game-javascript-r.netlify.app/
